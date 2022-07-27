@@ -1,0 +1,32 @@
+
+html {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.ggg{
+        
+       background-color: brown;
+       display:flex;
+       width: 149px;
+       height: 70px;
+       text-decoration: none;
+       justify-content: space-between;
+       border-radius: 20px;
+       margin:auto;
+}
+.img{
+    width: 70px ;
+}
+
+.login-text{color: black;
+    font-size: 25px;
+        font-family: 'Source Sans Pro';
+        padding: 20px 10px 20px 10px;
+       
+     }
